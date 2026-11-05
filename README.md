@@ -50,8 +50,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 ### 📊 Estatísticas
 
 
-<p align="left">
+<div align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HUNK51&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNK51&layout=compact&theme=tokyonight" />
-</p>
+</div>
           
