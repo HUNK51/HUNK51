@@ -49,6 +49,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=HUNK51&show_icons=true&theme=tokyonight&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=HUNK51&layout=compact&theme=tokyonight&langs_count=9"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+
 
 
 
