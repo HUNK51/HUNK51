@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👨🏻‍💻 Lucas Garcia
 
-<!--
-**HUNK51/HUNK51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##`Desenvolvedor Front-End `##
 
-Here are some ideas to get you started:
+Sou formado em Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de Desenvolvimento de Software, com interesse em Desenvolvimento Web Front-End e Back-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, desenvolvendo projetos pessoais e explorando novas tecnologias para expandir minhas habilidades.
+
+🚀 Objetivos:
+Aprimorar minhas habilidades em desenvolvimento web.
+Desenvolver projetos práticos e criativos.
+Aprender novas tecnologias e boas práticas de programação.
+Crescer profissionalmente na área de tecnologia.
+
+📚 Sempre aprendendo, praticando e evoluindo!
+
+---
+### 💻 Linguagens e Tecnologias
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+    
+<br/>          
+<br/>          
+
+### 📊 Estatísticas
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=HUNK51&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNK51&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+
+          
